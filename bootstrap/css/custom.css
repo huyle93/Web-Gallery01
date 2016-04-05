@@ -1,0 +1,45 @@
+.navbar {
+    margin-bottom: 0px;
+
+
+    /* background-image: -webkit-linear-gradient(top, #004400 0%, #009900 100%);
+  background-image: -o-linear-gradient(top, #004400 0%, #009900 100%);
+  background-image: linear-gradient(to bottom, #004400 0%, #009900 100%);
+  background-repeat: repeat-x; */
+  
+}
+
+.navbar-inverse {
+    border-color: aliceblue;
+}
+.carousel .item{
+    background-image: url('../../assets/carousel-bg.png');
+    background-repeat: repeat;
+}
+#logo {
+    height: 100%;
+    margin-top: -3px;
+    margin-right: 5px;
+    display: inline;
+}
+
+header {
+                margin-top: 30px;
+            }
+            div.thumbnail {
+                padding: 0px;
+                text-align: center;
+            }
+            .thumbnail {
+                border: 0px;
+                background-color: transparent;
+            }
+            #svgIconLoupeClose {
+                margin-top: 40px;
+            }
+            #loupeContainer div.image-container {
+                margin-top: 20px;
+            }
+            #loupeMeta p.caption {
+                height: 20px;
+            }
